@@ -1,0 +1,18 @@
+[
+    {"id": 76,  "name": "Apple"},
+    {"id": 224, "name": "Google"},
+    {"id": 6,   "name": "Microsoft"},
+    {"id": 89,  "name": "Nordic"},
+    {"id": 10,  "name": "Qualcomm"},
+    {"id": 117, "name": "Samsung"},
+    {"id": 305, "name": "Huawei"},
+    {"id": 343, "name": "Xiaomi"},
+    {"id": 784, "name": "Fitbit"},
+    {"id": 135, "name": "Garmin"},
+    {"id": 369, "name": "Amazon"},
+    {"id": 2,   "name": "Intel"},
+    {"id": 210, "name": "Bose"},
+    {"id": 301, "name": "Sony"},
+    {"id": 148, "name": "Realtek"},
+    {"id": 911, "name": "Espressif"}
+]

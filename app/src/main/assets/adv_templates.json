@@ -1,0 +1,26 @@
+{
+    "apple_action": {
+        "company_id": "004C",
+        "payload_header": "0F05C0",
+        "random_len": 3,
+        "connectable": false
+    },
+    "apple_pairing": {
+        "company_id": "004C",
+        "continuity_type": "07",
+        "full_payload_len": 25,
+        "trim_payload_len": 7,
+        "prefix_normal": "07",
+        "prefix_airtag": "05",
+        "airtag_model_check": "55",
+        "status": "55",
+        "lid_open": "01",
+        "encrypted_len": 16,
+        "pad": "0000",
+        "connectable": false
+    },
+    "google_fastpair": {
+        "service_uuid": "0000FE2C-0000-1000-8000-00805F9B34FB",
+        "connectable": true
+    }
+}

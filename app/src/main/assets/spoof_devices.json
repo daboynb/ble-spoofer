@@ -1,0 +1,47 @@
+{
+    "apple_action": [
+        {"name": "Setup New iPhone",   "action": "0x09"},
+        {"name": "Transfer Number",    "action": "0x02"},
+        {"name": "AppleTV Keyboard",   "action": "0x13"},
+        {"name": "AppleTV Connecting",  "action": "0x27"},
+        {"name": "Join AppleTV?",      "action": "0x20"},
+        {"name": "HomePod Setup",      "action": "0x0B"},
+        {"name": "Pair AppleTV",       "action": "0x06"},
+        {"name": "Setup AppleTV",      "action": "0x01"},
+        {"name": "AppleID AppleTV?",   "action": "0x2B"},
+        {"name": "Color Balance",      "action": "0x1E"}
+    ],
+    "apple": [
+        {"name": "AirPods",            "model": "0x0220"},
+        {"name": "AirPods Pro",        "model": "0x0E20"},
+        {"name": "AirPods Pro 2",      "model": "0x1420"},
+        {"name": "AirPods 2",          "model": "0x0F20"},
+        {"name": "AirPods 3",          "model": "0x1320"},
+        {"name": "AirPods Max",        "model": "0x0A20"},
+        {"name": "Powerbeats",         "model": "0x0320"},
+        {"name": "Powerbeats Pro",     "model": "0x0B20"},
+        {"name": "Beats Solo Pro",     "model": "0x0C20"},
+        {"name": "Beats Studio Buds",  "model": "0x1120"},
+        {"name": "Beats Flex",         "model": "0x1020"},
+        {"name": "Beats X",            "model": "0x0520"},
+        {"name": "Beats Solo3",        "model": "0x0620"},
+        {"name": "Beats Studio3",      "model": "0x0920"},
+        {"name": "Beats Studio Pro",   "model": "0x1720"},
+        {"name": "Beats Fit Pro",      "model": "0x1220"},
+        {"name": "Apple Vision Pro",   "model": "0x2420"}
+    ],
+    "google": [
+        {"name": "Pixel Buds Pro",       "data": "92BBBD"},
+        {"name": "Pixel Buds A-Series",  "data": "D4291C"},
+        {"name": "Samsung Buds Pro",     "data": "A7F6CE"},
+        {"name": "Samsung Buds2",        "data": "51B2DA"},
+        {"name": "Samsung Buds FE",      "data": "FE2C00"},
+        {"name": "Bose NC 700",          "data": "CD8256"},
+        {"name": "Bose QC35",            "data": "F52494"},
+        {"name": "JBL Flip 6",           "data": "718FA4"},
+        {"name": "JBL Buds Pro",         "data": "D446A7"},
+        {"name": "Sony WF-1000XM4",      "data": "D446A7"},
+        {"name": "Nothing Ear 1",        "data": "7CBF12"},
+        {"name": "Google Home Mini",     "data": "0082DA"}
+    ]
+}
